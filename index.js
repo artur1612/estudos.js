@@ -1,3 +1,2 @@
 const nome = "artur";
-
-console.log(nome)
+console.log(nome);
